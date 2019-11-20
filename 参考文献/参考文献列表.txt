@@ -1,0 +1,28 @@
+1.High-temperature superconductors of the family (RE)Ba2Cu3O7-delta and their application
+2.High-power HTS microstrip filters for wireless communication
+3.Superconducting narrow band pass filters for advanced multiplexers
+4.On the development of superconducting microstrip filters for mobile communications applications
+5.Enabling High-Temperature Superconducting Technologies Toward Practical Applications
+6.An HTS Filter subsystem for 800mhz mobile communication system
+7.Magnetically tunable superconducting resonators and filters
+8.LOW-TEMPERATURE AND HIGH-TEMPERATURE SUPERCONDUCTING MICROWAVE FILTERS
+9.High-quality Y-Ba-Cu-O thin films by PLD - Ready for market applications
+10.Superconducting electrode capacitor based on double-sided YBCO thin film for wireless power transfer applications
+11.Realization of Even Transmission Zeros for Filter Without Cross-Couplings
+12.Characteristics of Ultra-Wideband Bandpass YBCO Filter With Impendence Stub
+13.Double-sided YBa2Cu3O7-delta films for planar high-power filters
+14.8-GHz Narrowband High-Temperature Superconducting Filter With High Selectivity and Flat Group Delay
+15.Double-Sided YBa,Cu,O,, Films for Planar High-Power Filters
+16.DOUBLE-SIDED YBCO FILMS ON 4-INCH SUBSTRATES BY THERMAL REACTIVE EVAPORATION
+17.Preparation of double-sided YBa2Cu3O7?¦Äfilm by hot-wall type MOCVD
+18.The preparation of two inch double-sided YBCO thin films
+19.Batch production of large-area double-sided YBa2Cu3O7-delta thin films by DC magnetron sputtering
+20.Highly reproducible large-area and double-sided pulsed laser deposition of HTSC YBCO:Ag thin films for microwave applications
+21.Optimized double sided DyBa2Cu3O7-thin films for RF applications
+22.Fabrication of double-sided YBa2Cu3O7 films on CeO2-buffered sapphire substrates by MOD process
+23.Preparation of double-sided YBCO films on LaAlO3 by MOD using commercially available coating solution
+24.Cerium Oxide Buffer Layers on Perovskite-Type Substrates for Preparation of c-Axis-Oriented YBa2Cu3O7 Films by Fluorine-Free Metalorganic Deposition
+25.High Rate Growth of MOCVD-Derived GdYBCO Films Based on a Simple Self-Heating Method, Journal of Electronic Materials
+26.MOCVD-derived multilayer Gd0.5Y0.5Ba2Cu3O7-delta films based on a novel heating method
+27.Self-heating technique of metallic substrate for reel-to-reel and double-sided deposition of YBa2Cu3O7-delta films
+28.High-rate deposition of YBa2Cu3O7-delta high-temperature superconducting films by IR-laser-assisted chemical vapor deposition
